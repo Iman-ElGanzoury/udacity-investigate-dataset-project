@@ -1,4 +1,4 @@
-# No-Show appointments Data analysis
+# No-Show Appointments Data Analysis
 
 This is a data analysis project that goes through the basic data analysis process
 in order to answer some questions about the no-show rates for 100k medical appointments in Brazil, along with relevant visualizations. Click [here](https://www.kaggle.com/datasets/joniarroba/noshowappointments) for the original Kaggle source.
@@ -14,8 +14,8 @@ in order to answer some questions about the no-show rates for 100k medical appoi
 
 ## Software
 
-* Python 3, NumPy, and pandas, Matplotlib, and csv, installed using Anaconda.
-* iPython notebook for the ipynb file.
+* Python 3, NumPy, and Pandas, Matplotlib, and csv, installed using Anaconda.
+* iPython notebook for the _ipynb_ file.
 
 ## Files
 
@@ -29,7 +29,7 @@ Explained inside the Jupyter notebook/HTML file.
 
 ## Instructions
 
-* **For the ipynb file:** After Downloading the files, just navigate to the directory the files are in using jupyter. Make sure the csv file is in the same directory so the `pd.read_csv` code can run.
+* **For the ipynb file:** After Downloading the files, just navigate to the directory the files are in using Jupyter. Make sure the csv file is in the same directory so the `pd.read_csv` code can run.
 
 ## Creator
 
